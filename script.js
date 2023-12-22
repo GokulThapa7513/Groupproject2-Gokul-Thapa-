@@ -48,9 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // RSVP Form submission
     window.submitRSVP = function () {
-        // Handle form submission (you can add your logic here)
 
-        // For demonstration purposes, let's simulate a successful submission
         alert('RSVP Successful! Thank you for confirming your attendance.');
 
         // Increment the count of confirmed attendees
